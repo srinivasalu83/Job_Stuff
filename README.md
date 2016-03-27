@@ -78,6 +78,24 @@
 - http://www.squarespace.com/about/careers
 - http://about.audible.com/
 
+## Tools
+- Application Management
+  - http://timetohire.me/en
+  - http://www.startwire.com/
+  - http://www.jibberjobber.com/
+  - http://applymate.com/
+  - https://formswift.com/job-application
+- Resume Creators
+  - https://github.com/awalGarg/cv-maker
+  - https://github.com/ellekasai/resumecards
+  - https://github.com/resume/resume.github.com
+  - https://github.com/erming/resume-editor
+  - https://github.com/jsonresume/resume-cli
+  - https://theresponsivecv.com/
+  - http://cvmkr.com/
+  - https://www.visualcv.com/
+  - https://www.resume.com/
+
 ## Interviews
 - http://algs4.cs.princeton.edu/cheatsheet/
 - http://bigocheatsheet.com/
