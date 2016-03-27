@@ -77,6 +77,8 @@
 - https://www.monstercat.com/careers/
 - http://www.squarespace.com/about/careers
 - http://about.audible.com/
+- https://github.com/lukasz-madon/awesome-remote-job
+- https://github.com/jessicard/remote-jobs
 
 ## Tools
 - Application Management
@@ -96,7 +98,7 @@
   - https://www.visualcv.com/
   - https://www.resume.com/
 
-## Interviews
+## Interview Study
 - http://algs4.cs.princeton.edu/cheatsheet/
 - http://bigocheatsheet.com/
 - http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_1.pdf
