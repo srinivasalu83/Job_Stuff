@@ -1,6 +1,8 @@
-# Companies
+# Job Stuff
 
-## Technology
+## Companies
+
+### Technology
 - http://www.linnovate.net/content/work-linnovate
 - https://www.elastic.co/about/careers
 - https://careers.mozilla.org/
@@ -26,14 +28,14 @@
 - https://zenmate.com/jobs/
 - https://hola.org/jobs
 
-## Productivity/Business
+### Productivity/Business
 - https://trello.com/jobs
 - https://slack.com/jobs
 - http://jobs.gitter.im/
 - https://www.dropbox.com/jobs
 - https://www.box.com/careers/
 
-## Finance
+### Finance
 - https://stripe.com/jobs
 - http://careers.intuit.com/
 - https://squareup.com/careers
@@ -42,7 +44,7 @@
 - https://www.ally.com/about/careers/
 - https://www.simple.com/careers
 
-## Education
+### Education
 - https://www.codecademy.com/about/jobs
 - http://mindgeek.com/careers#join-mindgeek-team
 - https://www.khanacademy.org/careers
@@ -51,7 +53,7 @@
 - https://www.duolingo.com/jobs
 - https://quizlet.com/jobs
 
-## Helpdesk/Support
+### Helpdesk/Support
 - https://www.zendesk.com/jobs/
 - http://www.kayako.com/company/careers/
 - https://www.bomgar.com/jobs
@@ -62,7 +64,7 @@
 - https://moodle.com/careers/
 - https://www.instructure.com/careers/
 
-## Travel
+### Travel
 - https://www.airbnb.com/careers
 - http://alaskaair.jobs/jobs/
 - http://www.lifeatexpedia.com/
@@ -70,8 +72,52 @@
 - https://www.kayak.com/careers
 - http://www.lifeatexpedia.com/
 
-## Other
+### Other
 - https://soundcloud.com/jobs
 - https://www.monstercat.com/careers/
 - http://www.squarespace.com/about/careers
 - http://about.audible.com/
+
+## Interviews
+- http://algs4.cs.princeton.edu/cheatsheet/
+- http://bigocheatsheet.com/
+- http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_1.pdf
+- http://dtkachenko.blogspot.com/2011/11/data-structures-and-algorithms-when-to.html
+- http://katemats.com/interview-questions/
+- http://me.dt.in.th/page/Quicksort/
+- http://opendatastructures.org/ods-cpp/Index.html
+- http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap
+- http://stackoverflow.com/questions/200384/constant-amortized-time
+- http://visualgo.net/
+- http://www.algomation.com/
+- http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+- http://www.geeksforgeeks.org/
+- http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
+- https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
+- https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit
+- https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
+- https://github.com/alex/what-happens-when
+- https://github.com/andreis/interview
+- https://github.com/blakeembrey/code-problems
+- https://github.com/careercup/ctci
+- https://github.com/donnemartin/interactive-coding-challenges
+- https://github.com/h5bp/Front-end-Developer-Interview-Questions
+- https://github.com/kolodny/exercises
+- https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/
+- https://medium.com/@felipernb/algorithms-data-structures-and-web-development-7772e088f1d3#.18rx1obbk
+- https://github.com/MaximAbramchuck/awesome-interviews
+- https://papaly.com/brianfox/flT15/HTML
+- https://sinon.org/algo/#data-structures
+- https://papaly.com/daverufty/f8qAj/drufty
+- https://papaly.com/Postmodum37/aTVOt/Programming
+- https://papaly.com/evangeliaedwards/0n1b5/Coding
+- https://papaly.com/spencerchang/emaMj/From-Chrome
+- https://papaly.com/NurdTurd/1KsOt/Web-Stuff
+- https://papaly.com/Randy/fn31j/Programming-Resources
+- https://papaly.com/mchristians/3Zpxt/mchristians
+- https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know/
+- https://www.clear.rice.edu/comp160/data_cheat.html
+- https://www.khanacademy.org/computing/computer-science/algorithms
+- https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms/
+- https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/
+- http://algorithms.wtf/
