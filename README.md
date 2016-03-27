@@ -23,6 +23,8 @@
 - https://www.mapbox.com/jobs/
 - https://bitnami.com/careers
 - https://www.optimizely.com/careers/
+- https://zenmate.com/jobs/
+- https://hola.org/jobs
 
 ## Productivity/Business
 - https://trello.com/jobs
