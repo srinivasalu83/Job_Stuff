@@ -1,5 +1,23 @@
 # Job Stuff
 
+## Tools
+- Application Management
+  - http://timetohire.me/en
+  - http://www.startwire.com/
+  - http://www.jibberjobber.com/
+  - http://applymate.com/
+  - https://formswift.com/job-application
+- Resume Creators
+  - https://github.com/awalGarg/cv-maker
+  - https://github.com/ellekasai/resumecards
+  - https://github.com/resume/resume.github.com
+  - https://github.com/erming/resume-editor
+  - https://github.com/jsonresume/resume-cli
+  - https://theresponsivecv.com/
+  - http://cvmkr.com/
+  - https://www.visualcv.com/
+  - https://www.resume.com/
+
 ## Companies
 
 ### Technology
@@ -79,24 +97,6 @@
 - http://about.audible.com/
 - https://github.com/lukasz-madon/awesome-remote-job
 - https://github.com/jessicard/remote-jobs
-
-## Tools
-- Application Management
-  - http://timetohire.me/en
-  - http://www.startwire.com/
-  - http://www.jibberjobber.com/
-  - http://applymate.com/
-  - https://formswift.com/job-application
-- Resume Creators
-  - https://github.com/awalGarg/cv-maker
-  - https://github.com/ellekasai/resumecards
-  - https://github.com/resume/resume.github.com
-  - https://github.com/erming/resume-editor
-  - https://github.com/jsonresume/resume-cli
-  - https://theresponsivecv.com/
-  - http://cvmkr.com/
-  - https://www.visualcv.com/
-  - https://www.resume.com/
 
 ## Interview Study
 - http://algs4.cs.princeton.edu/cheatsheet/
