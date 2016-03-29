@@ -45,6 +45,7 @@
 - https://www.optimizely.com/careers/
 - https://zenmate.com/jobs/
 - https://hola.org/jobs
+- https://jobs.lever.co/nylas
 
 ### Productivity/Business
 - https://trello.com/jobs
