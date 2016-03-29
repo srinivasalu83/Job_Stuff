@@ -159,3 +159,4 @@
 - https://mindgamer.com/
 - http://www.idolbrain.com/
 - https://github.com/braydie/HowToBeAProgrammer
+- https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/
