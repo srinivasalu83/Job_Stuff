@@ -70,7 +70,19 @@
 - https://www.coinbase.com/careers
 - https://www.nerdwallet.com/careers/
 - https://www.ally.com/about/careers/
+- https://www.alliantcreditunion.org/careers/
 - https://www.simple.com/careers
+- http://careers.greendot.com/
+- https://www.avant.com/jobs
+- https://www.upstart.com/careers
+- https://www.sofi.com/careers/
+- https://careers.springleaf.com/
+- https://personalloans.com/careers
+- https://www.prosper.com/about-us/jobs/
+- https://www.pave.com/about#jobs
+- https://www.meetearnest.com/careers/#/overview
+- https://angel.co/promise-financial/jobs
+- http://careers.lendingtree.com/
 
 ### Education
 - https://www.codecademy.com/about/jobs
