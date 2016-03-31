@@ -17,6 +17,12 @@
   - http://cvmkr.com/
   - https://www.visualcv.com/
   - https://www.resume.com/
+  - https://standardresume.co/
+  - https://www.strikingly.com/online-resume/linkedin
+  - http://ineedaresu.me/#/
+  - https://branded.me/
+  - http://www.doyoubuzz.com/us/
+  - https://resume-builder.qwilr.com/
 
 ## Companies
 
@@ -160,3 +166,4 @@
 - http://www.idolbrain.com/
 - https://github.com/braydie/HowToBeAProgrammer
 - https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/
+- http://stockroom.io/
