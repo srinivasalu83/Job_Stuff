@@ -57,6 +57,13 @@
 - https://ifttt.com/jobs
 - http://mailchimp.com/about/jobs/
 - https://github.com/mailgun/hiring
+- http://jobs.airbrake.io/
+- https://coreos.com/careers/
+- http://www.couchbase.com/careers
+- https://keybase.io/jobs
+- https://sendgrid.com/careers
+- http://www.sendhub.com/about
+- https://www.cloudflare.com/join-our-team/
 
 ### Productivity/Business
 - https://trello.com/jobs
