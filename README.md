@@ -55,6 +55,8 @@
 - https://hola.org/jobs
 - https://jobs.lever.co/nylas
 - https://ifttt.com/jobs
+- http://mailchimp.com/about/jobs/
+- https://github.com/mailgun/hiring
 
 ### Productivity/Business
 - https://trello.com/jobs
