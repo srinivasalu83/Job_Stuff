@@ -64,6 +64,21 @@
 - https://sendgrid.com/careers
 - http://www.sendhub.com/about
 - https://www.cloudflare.com/join-our-team/
+- https://getsentry.com/jobs/
+- https://www.pagerduty.com/careers/
+- https://www.blossom.co/careers
+- http://wildbit.com/jobs
+- https://www.zoho.com/contactus.html
+- https://raygun.com/careers
+- https://www.bitium.com/site/jobs/
+- http://www.activestate.com/company/careers
+- https://www.jetbrains.com/company/jobs/
+- https://www.cesanta.com/about#jobs
+- https://www.chef.io/careers/
+- https://puppetlabs.com/about/careers
+- https://www.redhat.com/en/jobs
+- https://apiary.io/company#jobs
+- http://saltstack.com/careers/
 
 ### Productivity/Business
 - https://trello.com/jobs
@@ -71,7 +86,8 @@
 - http://jobs.gitter.im/
 - https://www.dropbox.com/jobs
 - https://www.box.com/careers/
-- https://apiary.io/company#jobs
+- https://www.odoo.com/jobs
+- http://www.hubspot.com/jobs
 
 ### Finance
 - https://stripe.com/jobs
@@ -93,15 +109,19 @@
 - https://www.meetearnest.com/careers/#/overview
 - https://angel.co/promise-financial/jobs
 - http://careers.lendingtree.com/
+- http://www.youneedabudget.com/jobs
+- https://redislabs.com/company/redis-labs-careers
 
 ### Education
 - https://www.codecademy.com/about/jobs
-- http://mindgeek.com/careers#join-mindgeek-team
 - https://www.khanacademy.org/careers
 - https://evernote.com/careers/
 - https://www.wolfram.com/company/careers/
 - https://www.duolingo.com/jobs
 - https://quizlet.com/jobs
+- https://about.udemy.com/careers/
+- https://www.udacity.com/jobs
+- https://www.coursera.org/about/careers
 
 ### Helpdesk/Support
 - https://www.zendesk.com/jobs/
@@ -120,15 +140,17 @@
 - http://www.lifeatexpedia.com/
 - http://careers.priceline.com/
 - https://www.kayak.com/careers
-- http://www.lifeatexpedia.com/
 
 ### Other
 - https://soundcloud.com/jobs
 - https://www.monstercat.com/careers/
 - http://www.squarespace.com/about/careers
 - http://about.audible.com/
+- http://mindgeek.com/careers#join-mindgeek-team
 - https://github.com/lukasz-madon/awesome-remote-job
 - https://github.com/jessicard/remote-jobs
+- https://www.reddit.com/r/cscareerquestions/wiki/index
+- https://github.com/j-delaney/easy-application
 
 ## Interview Study
 - http://algs4.cs.princeton.edu/cheatsheet/
