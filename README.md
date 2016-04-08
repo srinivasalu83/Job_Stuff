@@ -133,6 +133,7 @@
 - https://www.groovehq.com/about#hiring
 - https://www.uservoice.com/jobs/
 - http://www.desk.com/careers
+- http://www.spiceworks.com/jobs/
 
 ### Travel
 - https://www.airbnb.com/careers
