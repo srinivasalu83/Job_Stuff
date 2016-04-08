@@ -122,6 +122,8 @@
 - https://about.udemy.com/careers/
 - https://www.udacity.com/jobs
 - https://www.coursera.org/about/careers
+- https://moodle.com/careers/
+- https://www.instructure.com/careers/
 
 ### Helpdesk/Support
 - https://www.zendesk.com/jobs/
@@ -131,8 +133,6 @@
 - https://www.groovehq.com/about#hiring
 - https://www.uservoice.com/jobs/
 - http://www.desk.com/careers
-- https://moodle.com/careers/
-- https://www.instructure.com/careers/
 
 ### Travel
 - https://www.airbnb.com/careers
