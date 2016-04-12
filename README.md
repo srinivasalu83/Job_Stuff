@@ -111,6 +111,9 @@
 - http://careers.lendingtree.com/
 - http://www.youneedabudget.com/jobs
 - https://redislabs.com/company/redis-labs-careers
+- http://www.equifax.com/about-equifax/careers
+- http://www.experian.com/corporate/careers-home.html
+- https://www.transunion.com/careers/careers
 
 ### Education
 - https://www.codecademy.com/about/jobs
