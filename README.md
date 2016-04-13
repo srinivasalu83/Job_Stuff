@@ -79,6 +79,7 @@
 - https://www.redhat.com/en/jobs
 - https://apiary.io/company#jobs
 - http://saltstack.com/careers/
+- https://discordapp.com/company#join
 
 ### Productivity/Business
 - https://trello.com/jobs
