@@ -26,6 +26,10 @@
 - Random
   - https://pitcherific.com/is
 
+## Job Search Sites
+- https://jobs.github.com/
+- http://stackoverflow.com/jobs
+
 ## Companies
 
 ### Technology
