@@ -93,6 +93,7 @@
 - https://www.box.com/careers/
 - https://www.odoo.com/jobs
 - http://www.hubspot.com/jobs
+- https://www.sync.com/careers/
 
 ### Finance
 - https://stripe.com/jobs
