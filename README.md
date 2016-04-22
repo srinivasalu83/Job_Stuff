@@ -84,6 +84,8 @@
 - https://apiary.io/company#jobs
 - http://saltstack.com/careers/
 - https://discordapp.com/company#join
+- https://restlet.com/company/
+- https://www.getpostman.com/jobs/
 
 ### Productivity/Business
 - https://trello.com/jobs
