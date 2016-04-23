@@ -135,6 +135,7 @@
 - https://www.coursera.org/about/careers
 - https://moodle.com/careers/
 - https://www.instructure.com/careers/
+- https://www.codeschool.com/jobs
 
 ### Helpdesk/Support
 - https://www.zendesk.com/jobs/
