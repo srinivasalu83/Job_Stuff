@@ -158,6 +158,8 @@
 - https://soundcloud.com/jobs
 - https://www.monstercat.com/careers/
 - http://www.squarespace.com/about/careers
+- http://www.wix.com/jobs/home
+- https://careers.weebly.com/
 - http://about.audible.com/
 - http://mindgeek.com/careers#join-mindgeek-team
 - https://github.com/lukasz-madon/awesome-remote-job
