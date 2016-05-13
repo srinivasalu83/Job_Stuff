@@ -136,6 +136,8 @@
 - https://moodle.com/careers/
 - https://www.instructure.com/careers/
 - https://www.codeschool.com/jobs
+- https://www.lumosity.com/jobs
+- https://www.duolingo.com/jobs
 
 ### Helpdesk/Support
 - https://www.zendesk.com/jobs/
