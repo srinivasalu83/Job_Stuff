@@ -29,6 +29,9 @@
 ## Job Search Sites
 - https://jobs.github.com/
 - http://stackoverflow.com/jobs
+- http://www.indeed.com/
+- https://www.glassdoor.com/index.htm
+- http://www.monster.com/
 
 ## Companies
 
@@ -168,6 +171,9 @@
 - https://github.com/jessicard/remote-jobs
 - https://www.reddit.com/r/cscareerquestions/wiki/index
 - https://github.com/j-delaney/easy-application
+- https://careers.monster.com/
+- http://www.indeed.jobs/
+- https://www.glassdoor.com/glassdoor
 
 ## Interview Study
 - http://algs4.cs.princeton.edu/cheatsheet/
