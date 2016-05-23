@@ -125,6 +125,8 @@
 - http://www.equifax.com/about-equifax/careers
 - http://www.experian.com/corporate/careers-home.html
 - https://www.transunion.com/careers/careers
+- https://jobs.lever.co/robinhood
+- https://www.betterment.com/careers/
 
 ### Education
 - https://www.codecademy.com/about/jobs
