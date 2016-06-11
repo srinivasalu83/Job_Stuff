@@ -179,6 +179,23 @@
 - https://www.glassdoor.com/glassdoor
 - http://www.zillow.com/jobs/
 
+## Training Sites
+- https://www.interviewcake.com/
+- https://coderbyte.com/
+- http://www.codewars.com/
+- https://projecteuler.net/
+- https://www.hackerrank.com/
+- https://codefights.com/
+- https://www.topcoder.com/
+- https://www.reddit.com/r/dailyprogrammer/
+- https://www.codechef.com/
+- https://www.careercup.com/
+- http://exercism.io/
+- http://www.lumosity.com/
+- https://mindgamer.com/
+- http://www.idolbrain.com/
+- http://stockroom.io/
+
 ## Interview Study
 - http://algs4.cs.princeton.edu/cheatsheet/
 - http://bigocheatsheet.com/
@@ -222,21 +239,6 @@
 - https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms/
 - https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/
 - http://algorithms.wtf/
-- https://www.interviewcake.com/
 - https://www.quora.com/What-types-of-technical-questions-are-asked-in-developer-interviews
-- https://coderbyte.com/
-- http://www.codewars.com/
-- https://projecteuler.net/
-- https://www.hackerrank.com/
-- https://codefights.com/
-- https://www.topcoder.com/
-- https://www.reddit.com/r/dailyprogrammer/
-- https://www.codechef.com/
-- https://www.careercup.com/
-- http://exercism.io/
-- http://www.lumosity.com/
-- https://mindgamer.com/
-- http://www.idolbrain.com/
 - https://github.com/braydie/HowToBeAProgrammer
 - https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/
-- http://stockroom.io/
