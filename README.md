@@ -155,6 +155,12 @@
 - http://www.desk.com/careers
 - http://www.spiceworks.com/jobs/
 
+### Video Games
+- https://career.paradoxplaza.com/departments/paradox-development-studio-game-devs
+- http://us.blizzard.com/en-us/company/careers/roles/engineering.html
+- http://www.valvesoftware.com/jobs/
+- https://jobs.zenimax.com/locations/view/4
+
 ### Travel
 - https://www.airbnb.com/careers
 - http://alaskaair.jobs/jobs/
