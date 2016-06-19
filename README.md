@@ -160,6 +160,7 @@
 - http://us.blizzard.com/en-us/company/careers/roles/engineering.html
 - http://www.valvesoftware.com/jobs/
 - https://jobs.zenimax.com/locations/view/4
+- http://en.cdprojektred.com/jobs/
 
 ### Travel
 - https://www.airbnb.com/careers
