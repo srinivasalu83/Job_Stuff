@@ -164,6 +164,7 @@
 - http://www.valvesoftware.com/jobs/
 - https://jobs.zenimax.com/locations/view/4
 - http://en.cdprojektred.com/jobs/
+- http://www.naughtydog.com/work
 
 ### Travel
 - https://www.airbnb.com/careers
