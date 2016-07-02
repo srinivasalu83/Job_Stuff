@@ -104,6 +104,7 @@
 - https://www.bluehost.com/careers
 
 ### Finance
+- http://paypalcareers.jobs/
 - https://stripe.com/jobs
 - http://careers.intuit.com/
 - https://squareup.com/careers
