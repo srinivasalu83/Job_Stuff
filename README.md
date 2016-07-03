@@ -33,6 +33,7 @@
 - https://www.glassdoor.com/index.htm
 - http://www.monster.com/
 - https://www.cybercoders.com/
+- http://codepen.io/jobs/
 
 ## Companies
 
@@ -50,7 +51,6 @@
 - https://c9.io/site/jobs
 - https://www.firebase.com/jobs.html
 - https://www.heroku.com/careers
-- http://codepen.io/jobs/
 - http://apigee.com/about/careers
 - https://travisci.workable.com/
 - https://www.linode.com/careers
