@@ -1,30 +1,33 @@
 # Job Stuff
 
 ## Tools
-- Application Management
-  - http://timetohire.me/en
-  - http://www.startwire.com/
-  - http://www.jibberjobber.com/
-  - http://applymate.com/
-  - https://formswift.com/job-application
-- Resume Creators
-  - https://github.com/awalGarg/cv-maker
-  - https://github.com/ellekasai/resumecards
-  - https://github.com/resume/resume.github.com
-  - https://github.com/erming/resume-editor
-  - https://github.com/jsonresume/resume-cli
-  - https://theresponsivecv.com/
-  - http://cvmkr.com/
-  - https://www.visualcv.com/
-  - https://www.resume.com/
-  - https://standardresume.co/
-  - https://www.strikingly.com/online-resume/linkedin
-  - http://ineedaresu.me/#/
-  - https://branded.me/
-  - http://www.doyoubuzz.com/us/
-  - https://resume-builder.qwilr.com/
-- Random
-  - https://pitcherific.com/is
+
+#### Application Management
+- http://timetohire.me/en
+- http://www.startwire.com/
+- http://www.jibberjobber.com/
+- http://applymate.com/
+- https://formswift.com/job-application
+
+#### Resume Creators
+- https://github.com/awalGarg/cv-maker
+- https://github.com/ellekasai/resumecards
+- https://github.com/resume/resume.github.com
+- https://github.com/erming/resume-editor
+- https://github.com/jsonresume/resume-cli
+- https://theresponsivecv.com/
+- http://cvmkr.com/
+- https://www.visualcv.com/
+- https://www.resume.com/
+- https://standardresume.co/
+- https://www.strikingly.com/online-resume/linkedin
+- http://ineedaresu.me/#/
+- https://branded.me/
+- http://www.doyoubuzz.com/us/
+- https://resume-builder.qwilr.com/
+
+#### Random
+- https://pitcherific.com/is
 
 ## Job Search Sites
 - https://jobs.github.com/
@@ -225,7 +228,6 @@
 - http://www.geeksforgeeks.org/
 - http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
 - https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
-- https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit
 - https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
 - https://github.com/alex/what-happens-when
 - https://github.com/andreis/interview
@@ -237,21 +239,8 @@
 - https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/
 - https://medium.com/@felipernb/algorithms-data-structures-and-web-development-7772e088f1d3#.18rx1obbk
 - https://github.com/MaximAbramchuck/awesome-interviews
-- https://papaly.com/brianfox/flT15/HTML
-- https://sinon.org/algo/#data-structures
-- https://papaly.com/daverufty/f8qAj/drufty
-- https://papaly.com/Postmodum37/aTVOt/Programming
-- https://papaly.com/evangeliaedwards/0n1b5/Coding
-- https://papaly.com/spencerchang/emaMj/From-Chrome
-- https://papaly.com/NurdTurd/1KsOt/Web-Stuff
-- https://papaly.com/Randy/fn31j/Programming-Resources
-- https://papaly.com/mchristians/3Zpxt/mchristians
 - https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know/
 - https://www.clear.rice.edu/comp160/data_cheat.html
 - https://www.khanacademy.org/computing/computer-science/algorithms
-- https://www.reddit.com/r/learnprogramming/comments/379vwn/visually_learning_algorithms/
-- https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/
 - http://algorithms.wtf/
-- https://www.quora.com/What-types-of-technical-questions-are-asked-in-developer-interviews
 - https://github.com/braydie/HowToBeAProgrammer
-- https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/
