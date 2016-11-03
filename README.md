@@ -43,8 +43,12 @@
 ### Technology
 - http://www.linnovate.net/content/work-linnovate
 - https://www.elastic.co/about/careers
+- http://careers.tableau.com/listing
 - https://buffer.com/journey
+- https://about.reddit.com/careers/
 - https://careers.mozilla.org/
+- https://jobs.medium.com/
+- https://jobs.toggl.com/
 - https://github.com/about/jobs
 - https://www.meteor.com/jobs
 - https://www.resdat.com/careers/job-openings
@@ -55,10 +59,13 @@
 - https://c9.io/site/jobs
 - https://www.firebase.com/jobs.html
 - https://www.heroku.com/careers
+- http://plataformatec.com.br/careers
+- https://dockyard.com/contact/join-us
 - http://apigee.com/about/careers
 - https://travisci.workable.com/
 - https://www.linode.com/careers
 - https://www.digitalocean.com/company/careers/
+- https://automattic.com/work-with-us/
 - http://jobs.cpanel.com/
 - https://www.mapbox.com/jobs/
 - https://bitnami.com/careers
@@ -118,6 +125,7 @@
 - https://www.ally.com/about/careers/
 - https://www.alliantcreditunion.org/careers/
 - https://www.simple.com/careers
+- https://angel.co/zero-8/jobs
 - http://careers.greendot.com/
 - https://www.avant.com/jobs
 - https://www.upstart.com/careers
