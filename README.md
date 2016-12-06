@@ -42,6 +42,8 @@
 
 ### Technology
 - http://www.linnovate.net/content/work-linnovate
+- https://pivotal.io/careers
+- https://auth0.com/jobs
 - https://www.elastic.co/about/careers
 - http://careers.tableau.com/listing
 - https://buffer.com/journey
