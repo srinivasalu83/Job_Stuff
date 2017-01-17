@@ -105,6 +105,9 @@
 - https://www.getpostman.com/jobs/
 - https://www.teamviewer.com/en/company/jobs/
 - https://careers.guidewire.com/jobs/category/product-development/
+- https://www.privateinternetaccess.com/pages/work-for-us
+- https://incsub.com/careers/
+- https://www.elegantthemes.com/careers/
 
 ### Productivity/Business
 - https://trello.com/jobs
@@ -117,6 +120,9 @@
 - https://www.sync.com/careers/
 - https://www.dreamhost.com/careers/
 - https://www.bluehost.com/careers
+- https://www.teamwork.com/jobs/
+- https://www.proofhub.com/about/careers
+- https://activecollab.com/careers/
 
 ### Finance
 - http://paypalcareers.jobs/
@@ -138,15 +144,21 @@
 - https://www.prosper.com/about-us/jobs/
 - https://www.pave.com/about#jobs
 - https://www.meetearnest.com/careers/#/overview
-- https://angel.co/promise-financial/jobs
 - http://careers.lendingtree.com/
 - http://www.youneedabudget.com/jobs
 - https://redislabs.com/company/redis-labs-careers
 - http://www.equifax.com/about-equifax/careers
 - http://www.experian.com/corporate/careers-home.html
 - https://www.transunion.com/careers/careers
-- https://jobs.lever.co/robinhood
+- https://boards.greenhouse.io/robinhood
 - https://www.betterment.com/careers/
+- https://angel.co/wisebanyan/jobs
+- https://www.stashinvest.com/careers
+- https://www.wealthfront.com/careers
+- https://www.personalcapital.com/company/jobs
+- https://zipbooks.com/careers/
+- https://www.waveapps.com/about-us/jobs/
+- https://www.taxact.com/company/company_join.asp
 
 ### Education
 - https://www.codecademy.com/about/jobs
@@ -162,7 +174,6 @@
 - https://www.instructure.com/careers/
 - https://www.codeschool.com/jobs
 - https://www.lumosity.com/jobs
-- https://www.duolingo.com/jobs
 
 ### Helpdesk/Support
 - https://www.zendesk.com/jobs/
