@@ -257,9 +257,12 @@
 - https://github.com/alex/what-happens-when
 - https://github.com/andreis/interview
 - https://github.com/blakeembrey/code-problems
-- https://github.com/careercup/ctci
+- https://github.com/careercup
+- https://github.com/kdn251/interviews
+- https://github.com/MaximAbramchuck/awesome-interview-questions
 - https://github.com/donnemartin/interactive-coding-challenges
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions
+- https://github.com/jwasham/coding-interview-university
 - https://github.com/kolodny/exercises
 - https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/
 - https://medium.com/@felipernb/algorithms-data-structures-and-web-development-7772e088f1d3#.18rx1obbk
