@@ -41,6 +41,7 @@
 ## Companies
 
 ### Technology
+- https://iohk.io/careers/
 - http://www.linnovate.net/content/work-linnovate
 - https://pivotal.io/careers
 - https://auth0.com/jobs
