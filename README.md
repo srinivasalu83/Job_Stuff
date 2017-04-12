@@ -15,11 +15,15 @@
 - https://github.com/resume/resume.github.com
 - https://github.com/erming/resume-editor
 - https://github.com/jsonresume/resume-cli
+- https://github.com/hacksalot/HackMyResume
 - https://theresponsivecv.com/
 - http://cvmkr.com/
 - https://www.visualcv.com/
 - https://www.resume.com/
+- https://www.livecareer.com/resume-builder
 - https://standardresume.co/
+- https://resumegenius.com/
+- https://www.canva.com/create/resumes/
 - https://www.strikingly.com/online-resume/linkedin
 - http://ineedaresu.me/#/
 - https://branded.me/
