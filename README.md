@@ -41,12 +41,13 @@
 ## Companies
 
 ### Technology
-- https://iohk.io/careers/
+- http://www.spacex.com/careers/list
 - http://www.linnovate.net/content/work-linnovate
 - https://pivotal.io/careers
 - https://auth0.com/jobs
 - https://www.elastic.co/about/careers
 - http://careers.tableau.com/listing
+- https://www.domo.com/company/careers
 - https://buffer.com/journey
 - https://about.reddit.com/careers/
 - https://careers.mozilla.org/
@@ -54,6 +55,9 @@
 - https://jobs.toggl.com/
 - https://github.com/about/jobs
 - https://www.meteor.com/jobs
+- https://www.omnigroup.com/jobs/
+- https://readdle.com/careers
+- https://iohk.io/careers/
 - https://www.resdat.com/careers/job-openings
 - https://www.hashicorp.com/jobs.html
 - http://www.docker.com/careers
@@ -116,6 +120,7 @@
 - https://slack.com/jobs
 - http://jobs.gitter.im/
 - https://www.dropbox.com/jobs
+- https://www.backblaze.com/company/jobs.html
 - https://www.box.com/careers/
 - https://www.odoo.com/jobs
 - http://www.hubspot.com/jobs
@@ -193,7 +198,7 @@
 - http://www.valvesoftware.com/jobs/
 - https://jobs.zenimax.com/locations/view/4
 - http://en.cdprojektred.com/jobs/
-- http://www.naughtydog.com/work
+- https://www.naughtydog.com/careers
 
 ### Travel
 - https://www.airbnb.com/careers
