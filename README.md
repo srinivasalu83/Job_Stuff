@@ -2,13 +2,6 @@
 
 ## Tools
 
-#### Application Management
-- http://timetohire.me/en
-- http://www.startwire.com/
-- http://www.jibberjobber.com/
-- http://applymate.com/
-- https://formswift.com/job-application
-
 #### Resume Creators
 - https://github.com/awalGarg/cv-maker
 - https://github.com/ellekasai/resumecards
