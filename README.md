@@ -240,6 +240,15 @@
 - http://codingforinterviews.com/
 
 ## Interview Study
+
+### Design Patterns
+- https://sourcemaking.com/design_patterns
+- https://refactoring.guru/design-patterns
+- http://gameprogrammingpatterns.com/contents.html
+- https://www.geeksforgeeks.org/software-design-patterns/
+- https://www.oodesign.com/
+
+### Data Structures / Algorithms
 - http://algo-visualizer.jasonpark.me/
 - http://algs4.cs.princeton.edu/cheatsheet/
 - http://bigocheatsheet.com/
